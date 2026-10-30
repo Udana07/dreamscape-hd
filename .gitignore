@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.netlify/
+*.tsbuildinfo
+.env*
+!.env.example
+qa/
+.edge-qa*/
+qa-*.png
+.npm-cache/
